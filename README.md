@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a company
+- 🌱 I’m currently learning nothing
+- 📫 How to reach me: yoloyanng@gmail.com
+- ⚡ Fun fact: I’m a human
+
 <!--
 **yoloyanng/yoloyanng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
